@@ -1,4 +1,4 @@
-# nu_alura_challenge1
+# challenge2
 
 A new Flutter application.
 
