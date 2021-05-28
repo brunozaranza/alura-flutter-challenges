@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010351268445",
+    "project_id": "tasks-f966a",
+    "storage_bucket": "tasks-f966a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010351268445:android:2d185be18b9ac6d431e3b4",
+        "android_client_info": {
+          "package_name": "com.zaranzalabs.challenge3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010351268445-t63tkl5535emafo66gv15apcqi8758ed.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHjBy7gE_fDu2qbrZuICAarZzdI_8GuYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010351268445-t63tkl5535emafo66gv15apcqi8758ed.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
